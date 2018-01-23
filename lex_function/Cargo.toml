@@ -1,0 +1,7 @@
+[package]
+name = "lex_function"
+version = "0.1.0"
+authors = ["ramegali <ramegali23@gmail.com>"]
+
+[dependencies]
+regex = "0.2"
